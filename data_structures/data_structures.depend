@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1519722122 source:e:\projects c++\data_structures\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bitvector.h"
+
+1519680727 e:\projects c++\data_structures\linkedlist.h
+	<stdbool.h>
+
+1519681110 source:e:\projects c++\data_structures\linkedlist.c
+	"linkedList.h"
+	<stdio.h>
+
+1519653696 source:e:\projects c++\data_structures\arraylist.c
+	"arrayList.h"
+	<stdio.h>
+
+1519653544 e:\projects c++\data_structures\arraylist.h
+
+1519721641 source:e:\projects c++\data_structures\bitvector.c
+	"bitvector.h"
+	<stdio.h>
+
+1519722142 e:\projects c++\data_structures\bitvector.h
+	<stdbool.h>
+
